@@ -47,3 +47,9 @@ not 返回true false
 in x在y序列中返回true
 not in 
 """
+"""
+身份运算符
+is
+not is
+判断是否引用自一个对象
+"""
