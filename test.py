@@ -3,4 +3,29 @@
 if True:
     print("True")
 else:
-    print("false")
+    print("False")
+# 使用反斜杠表示一条语句，通常一行写完一条语句
+total = item_one + \
+        item_two + \
+        item_three
+# 在[]{}()中的语句不需要使用反斜杠\
+total = ['item_one', 'item_two', 'item_three']
+# 数字类型4种
+"""
+int
+bool
+float
+complex 复数 1+2j
+"""
+# 字符串
+"""
+单引号双引号一致
+'\'转义字符
+使用r可以不转义 r"this is a line with \n" 则\n会显示，并不是换行。
+字面意义级联
+如
+“this" "is" "string" 会自动转换 this is string
+用+拼接用*运算符重复
+两种索引方式 左边0开始，右边-1开始
+字符串不能改变
+"""
