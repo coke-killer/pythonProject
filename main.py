@@ -10,7 +10,8 @@ def print_hi(name):
 
 
 # Press the green button in the gutter to run the script.
+#第一个注释
 if __name__ == '__main__':
     print_hi('PyCharm')
-
+#第二个注释
 # See PyCharm help at https://www.jetbrains.com/help/pycharm/
