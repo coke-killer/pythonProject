@@ -35,3 +35,8 @@ if __name__ == "__main__":
     input = 'I like runoob'
     rw = reverseWords(input)
     print(rw)
+list = [1, 2, 3, 4, 'asad']
+# 删除元素
+del list[-1]
+print(list)
+for x in [1, 2, 3]: print(x, end="")
